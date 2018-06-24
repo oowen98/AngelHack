@@ -1,0 +1,69 @@
+
+
+
+.student{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+   left : 15%;
+   top: 20%;
+    
+}
+
+.chinesestudent{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    right: 15%;
+    top: 20%;
+    
+    
+}
+
+
+
+.chinesetext{
+    font-size: 18px;
+    position: absolute;
+    right: 17%;
+    top: 45%;
+    /* display: flex; 
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;    */
+}
+
+.studenttext {
+    font-size: 18px;
+    position: absolute;
+    left: 18%;
+    top: 45%;
+ 
+}
+
+.teacher{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    right: 43%;
+    top: 100%;
+    /* z-index: -1; */
+}
+
+.teachertext{
+    font-size: 18px;
+    position: absolute;
+    right: 45%;
+    top: 126%;
+}
+
+
+/* Chat Box */
+
+.chatpicture{
+    width: 400px;
+    height: 600px;
+    position: absolute;
+    right: 36%;
+    top: 20%;
+}
